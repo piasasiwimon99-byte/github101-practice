@@ -21,7 +21,7 @@ Repo นี้ใช้สำหรับสอบปฏิบัติ GitHub 1
 
 | Name | Team | Role | Evidence File | Issue Link |
 |---|---|---|---|---|
-| Example Student | Team 00 | Demo | [example evidence](docs/evidence/example-student.md) | - |
+| Sasiwimon Bunruam | Team 02 | Project Manager / Scrum Lead | [example evidence](docs/evidence/example-student.md) | - |
 
 ---
 
