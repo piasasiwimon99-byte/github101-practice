@@ -9,7 +9,7 @@ Role in Sprint:Project Manager / Scrum Lead
 สำรวจโครงสร้าง Repository และโฟลเดอร์ docs/evidence/ จากนั้นแก้ไขไฟล์ README.md เพื่ออัปเดตข้อมูลของตนเองลงตารางหลัก และบันทึก (Commit) การเปลี่ยนแปลงขึ้นระบบ
 
 5. Evidence Link
-README link: 
+README link:https://github.com/piasasiwimon99-byte/github101-practice/blob/main/README.md
 Commit link:
 Issue link:https://github.com/piasasiwimon99-byte/github101-practice/tree/main/docs/issues
 6. Reflection
