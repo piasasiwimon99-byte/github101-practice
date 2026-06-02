@@ -10,7 +10,7 @@ Role in Sprint:Project Manager / Scrum Lead
 
 5. Evidence Link
 README link:https://github.com/piasasiwimon99-byte/github101-practice/blob/main/README.md
-Commit link:
+Commit link:https://github.com/piasasiwimon99-byte/github101-practice/commits/main/
 Issue link:https://github.com/piasasiwimon99-byte/github101-practice/tree/main/docs/issues
 6. Reflection
 วันนี้ฉันเพิ่ม/แก้ไขอะไรใน repo:สร้างไฟล์หลักฐาน .md ของตัวเองในโฟลเดอร์ docs/evidence/ และอัปเดตรายชื่อลงในตารางหลักของ README.md
