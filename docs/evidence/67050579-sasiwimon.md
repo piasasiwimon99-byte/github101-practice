@@ -11,7 +11,7 @@ Role in Sprint:Project Manager / Scrum Lead
 5. Evidence Link
 README link: 
 Commit link:
-Issue link: 
+Issue link:https://github.com/piasasiwimon99-byte/github101-practice/tree/main/docs/issues
 6. Reflection
 วันนี้ฉันเพิ่ม/แก้ไขอะไรใน repo:
 ฉันใช้วิธีไหน: 
