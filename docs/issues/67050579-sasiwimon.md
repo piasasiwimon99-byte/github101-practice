@@ -4,12 +4,12 @@ Title
 
 Description
 What I need to do
- Edit README
- Add evidence file
- Submit links
+✔️ Edit README
+✔️Add evidence file
+✔️Submit links
 Evidence
-README link:https://github.com/piasasiwimon99-byte/github101-practice/blob/main/README.md
-Evidence file ://github.com/piasasiwimon99-byte/github101-practice/tree/main/docs/issues
+README link:
+Evidence file:
 Commit link:
 Blocker
 ไม่มี
